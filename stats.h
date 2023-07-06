@@ -12,7 +12,9 @@
  * @file stats.h>
  * @brief header file of array statistics 
  *
- * <Branch header file>
+ * Branch header file
+ *
+ * This is the header file in branch dev_c1m1
  *
  * @author Sung Hao Lin
  * @date 07/03/2023
