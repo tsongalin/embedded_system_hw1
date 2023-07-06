@@ -14,7 +14,7 @@
  *
  * Branch header file
  *
- * This is the header file in branch dev_c1m1
+ * This is the header file in branch dev_c1m1v2
  *
  * @author Sung Hao Lin
  * @date 07/03/2023
